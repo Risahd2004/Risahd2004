@@ -1,73 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,50:172554,100:6D28D9&height=190&section=header&text=RISAHD&fontSize=58&fontColor=E0F2FE&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050608,45:10151B,100:17251F&height=220&section=header&text=RISAHD&fontSize=64&fontColor=E8F5E9&fontAlignY=38&desc=AI%20%2F%20LLM%20%2F%20VOICE%20SYSTEMS&descSize=16&descColor=9BE7B1&descAlignY=59" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1100&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+useful+software;Exploring+AI+%26+voice+experiences;Turning+ideas+into+working+products" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=9BE7B1&center=true&vCenter=true&width=720&lines=Building+AI-powered+products;Exploring+LLMs%2C+RAG+%26+agentic+workflows;Engineering+real-time+voice+experiences;Turning+complex+ideas+into+useful+software" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Risahd2004-111827?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/Risahd2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/mohamedrisahd-77963625a/)
+<a href="https://github.com/Risahd2004"><img src="https://img.shields.io/badge/GITHUB-050608?style=for-the-badge&logo=github&logoColor=9BE7B1" /></a>
+<a href="https://www.linkedin.com/in/mohamed-risahd-77963625a/"><img src="https://img.shields.io/badge/LINKEDIN-050608?style=for-the-badge&logo=linkedin&logoColor=9BE7B1" /></a>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT-0891B2?style=flat-square" /> About Me
+### 01 / PROFILE
+
+```text
+MOHAMED RISAHD
+Software Developer
+
+INTERESTS
+├── Artificial Intelligence
+├── Large Language Models
+├── Retrieval-Augmented Generation
+├── Voice AI & Conversational Systems
+└── Full-Stack Product Engineering
+```
+
+I build practical software and explore how AI can make products more useful. My current interests are LLM-powered applications, retrieval systems, AI agents, and natural voice interactions.
+
+### 02 / AI SYSTEMS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ROLE-Software%20Developer-111827?style=flat-square&labelColor=172554" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Full%20Stack-111827?style=flat-square&labelColor=172554" />
+
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-0A0D0B?style=for-the-badge&logo=openai&logoColor=9BE7B1" />
+<img src="https://img.shields.io/badge/RAG_&_VECTOR_SEARCH-0A0D0B?style=for-the-badge&logo=databricks&logoColor=9BE7B1" />
+<img src="https://img.shields.io/badge/VOICE_AI-0A0D0B?style=for-the-badge&logo=livekit&logoColor=9BE7B1" />
+<img src="https://img.shields.io/badge/AI_AGENTS-0A0D0B?style=for-the-badge&logo=probot&logoColor=9BE7B1" />
+
 </div>
 
-I enjoy building software that solves real problems — from AI assistants and voice experiences to web applications and desktop tools. I like learning by building, experimenting with new technologies, and improving products through practical work.
+- **LLMs:** building and experimenting with LLM-powered assistants
+- **RAG:** document ingestion, embeddings, retrieval and grounded answers
+- **Voice AI:** real-time conversational experiences and speech pipelines
+- **AI workflows:** connecting models, APIs and application logic
 
-## <img src="https://img.shields.io/badge/02-TECH_STACK-7C3AED?style=flat-square" /> Technologies
+### 03 / TECHNOLOGY
 
 <div align="center">
 
-**Languages & Frameworks**
+**Languages & Application Development**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,nestjs,fastapi,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,fastapi,rust&theme=dark" />
 
-**Data, Tools & Platforms**
+**Infrastructure & Data**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,aws,vscode&theme=dark" />
 
 </div>
 
-## <img src="https://img.shields.io/badge/03-FOCUS-0891B2?style=flat-square" /> What I'm Exploring
+### 04 / SELECTED WORK
 
-- AI assistants, RAG and knowledge-based chatbots
-- Real-time voice AI and conversational interfaces
-- Full-stack product development
-- Offline-first desktop applications
+| Repository | Focus |
+|:--|:--|
+| [AI Chat Bot](https://github.com/Risahd2004/Ai-chat-bot) | Document-based AI chatbot |
+| [Creative Login](https://github.com/Risahd2004/creative-login) | Frontend interface experiment |
+| [Course Registration System](https://github.com/Risahd2004/Course-Registration-System) | Application development |
 
-## <img src="https://img.shields.io/badge/04-PROJECTS-7C3AED?style=flat-square" /> Selected Projects
-
-| Project | What it is |
-| --- | --- |
-| [AI Chat Bot](https://github.com/Risahd2004/Ai-chat-bot) | A document-focused AI chatbot project |
-| [Creative Login](https://github.com/Risahd2004/creative-login) | A login interface experiment |
-| [Course Registration System](https://github.com/Risahd2004/Course-Registration-System) | A course registration application |
-
-## <img src="https://img.shields.io/badge/05-GITHUB_STATS-0891B2?style=flat-square" /> GitHub Activity
+### 05 / GITHUB METRICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Risahd2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risahd2004&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Risahd2004&show_icons=true&hide_border=true&bg_color=050608&title_color=9BE7B1&icon_color=9BE7B1&text_color=B8C4BC" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risahd2004&layout=compact&hide_border=true&bg_color=050608&title_color=9BE7B1&text_color=B8C4BC" alt="Top languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Risahd2004&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Risahd2004&hide_border=true&background=050608&ring=9BE7B1&fire=9BE7B1&currStreakLabel=9BE7B1&sideLabels=B8C4BC&dates=69756D&currStreakNum=E8F5E9&sideNums=E8F5E9" alt="GitHub contribution streak" />
 </div>
 
 ---
 
 <div align="center">
 
-**Let's build something meaningful.**
+<sub>BUILDING AT THE INTERSECTION OF SOFTWARE & INTELLIGENCE</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:090A1A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050608,100:17251F&height=4&section=footer" width="100%" />
 
 </div>
