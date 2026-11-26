@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080014,35:17002B,70:001D35,100:080014&height=240&section=header&text=RISAHD&fontSize=72&fontColor=00F5FF&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%2F%20LLMs%20%2F%2F%20VOICE%20SYSTEMS&descSize=15&descColor=FF3CAC&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,45:16002B,100:001D35&height=220&section=header&text=RISAHD&fontSize=76&fontColor=00F5FF&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%2F%20LLMs%20%2F%2F%20VOICE%20SYSTEMS&descSize=16&descColor=FF3CAC&descAlignY=60" width="100%" alt="Risahd cyberpunk banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=INITIALIZING+DEVELOPER+PROFILE...;Building+AI-powered+applications;Exploring+LLMs%2C+RAG+%26+AI+agents;Engineering+real-time+Voice+AI+systems;Turning+ideas+into+working+software" alt="Cyberpunk typing animation" />
-
-<br/>
+<p><strong><code> > BUILDING AI SYSTEMS · EXPLORING WHAT'S NEXT_ </code></strong></p>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-00F5FF?style=for-the-badge&labelColor=080014" />
 <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-FF3CAC?style=for-the-badge&labelColor=080014" />
